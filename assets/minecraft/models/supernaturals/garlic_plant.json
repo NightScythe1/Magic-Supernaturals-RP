@@ -1,8 +1,8 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by NightScythe1",
 	"textures": {
-		"0": "mysticdepths/garlic",
-		"particle": "mysticdepths/garlic"
+		"0": "supernaturals/garlic",
+		"particle": "supernaturals/garlic"
 	},
 	"elements": [
 		{

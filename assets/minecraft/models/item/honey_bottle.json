@@ -5,6 +5,6 @@
   },
 
   "overrides": [
-    {"predicate": { "custom_model_data": 87001}, "model": "mysticdepths/blood_bottle"}
+    {"predicate": { "custom_model_data": 87001}, "model": "supernaturals/blood_bottle"}
   ]
 }

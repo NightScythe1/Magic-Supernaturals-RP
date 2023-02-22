@@ -1,8 +1,8 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by NightScythe1",
 	"textures": {
-		"0": "mysticdepths/wolfsbane",
-		"particle": "mysticdepths/wolfsbane"
+		"0": "supernaturals/wolfsbane",
+		"particle": "supernaturals/wolfsbane"
 	},
 	"elements": [
 		{

@@ -4,7 +4,7 @@
     "layer0": "minecraft:block/cornflower"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 87001}, "model": "mysticdepths/wolfsbane"},
-    {"predicate": {"custom_model_data": 87002}, "model": "mysticdepths/wolfsbane_plant"}
+    {"predicate": {"custom_model_data": 87001}, "model": "supernaturals/wolfsbane"},
+    {"predicate": {"custom_model_data": 87002}, "model": "supernaturals/wolfsbane_plant"}
   ]
 }

@@ -4,7 +4,7 @@
     "layer0": "minecraft:block/oxeye_daisy"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 87001}, "model": "mysticdepths/garlic"},
-    {"predicate": {"custom_model_data": 87002}, "model": "mysticdepths/garlic_plant"}
+    {"predicate": {"custom_model_data": 87001}, "model": "supernaturals/garlic"},
+    {"predicate": {"custom_model_data": 87002}, "model": "supernaturals/garlic_plant"}
   ]
 }
